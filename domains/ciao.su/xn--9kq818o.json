@@ -1,0 +1,40 @@
+{
+  "description": "SaaS/Platforms",
+  "subdomain": "xn--9kq818o",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "Shimokumo",
+    "github": "52071314",
+    "email": "1457943139@qq.com"
+  },
+  "records": [
+    {
+      "type": "NS",
+      "name": "@",
+      "content": "ns1.byet.org",
+      "ttl": 1,
+      "proxied": false
+    },
+    {
+      "type": "NS",
+      "name": "@",
+      "content": "ns2.byet.org",
+      "ttl": 1,
+      "proxied": false
+    },
+    {
+      "type": "NS",
+      "name": "@",
+      "content": "ns3.byet.org",
+      "ttl": 1,
+      "proxied": false
+    },
+    {
+      "type": "NS",
+      "name": "@",
+      "content": "ns4.byet.org",
+      "ttl": 1,
+      "proxied": false
+    }
+  ]
+}
