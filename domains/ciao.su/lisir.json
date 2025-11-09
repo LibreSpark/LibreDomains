@@ -1,0 +1,19 @@
+{
+  "description": "333",
+  "subdomain": "lisir",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "liran",
+    "github": "liran-ya",
+    "email": "lsr4416@163.com"
+  },
+  "records": [
+    {
+      "type": "A154.21.245.14",
+      "name": "www",
+      "content": "8.8.8.8",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
