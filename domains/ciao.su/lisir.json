@@ -1,5 +1,5 @@
 {
-  "description": "22222222222222222222",
+  "description": "22222",
   "subdomain": "lisir",
   "domain": "ciao.su",
   "owner": {
@@ -9,7 +9,7 @@
   },
   "records": [
     {
-      "type": "154.21.194.73",
+      "type": "A",
       "name": "@",
       "content": "154.21.194.73",
       "ttl": 3600,
