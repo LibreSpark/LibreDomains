@@ -1,0 +1,19 @@
+{
+  "description": "网站",
+  "subdomain": "neko",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "ShanFish",
+    "github": "shanfishapp",
+    "email": "zcsfish@qq.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "127.0.0.1",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
