@@ -1,0 +1,30 @@
+{
+  "owner": {
+    "name": "xixihucxixi",
+    "github": "xixihucxixi",
+    "email": "xixihucxixi@outlook.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "content": "hz.tungstencloud.cn",
+      "ttl": 3600,
+      "proxied": true
+    },
+    {
+      "type": "CNAME",
+      "name": "x",
+      "content": "hz.tungstencloud.cn",
+      "ttl": 3600,
+      "proxied": true
+    },
+{
+"type": "CNAME",
+"name": "xx",
+"content": "x.sjck.eu.org",
+"ttl": 3600,
+"proxied": false
+}
+  ]
+}
