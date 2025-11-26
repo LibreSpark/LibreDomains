@@ -6,18 +6,25 @@
   },
   "records": [
     {
-      "type": "A",
+      "type": "CNAME",
       "name": "@",
-      "content": "122.235.204.31",
+      "content": "hz.tungstencloud.cn",
       "ttl": 3600,
       "proxied": true
     },
     {
       "type": "CNAME",
-      "name": "*",
+      "name": "x",
       "content": "hz.tungstencloud.cn",
       "ttl": 3600,
       "proxied": true
-    }
+    },
+{
+"type": "CNAME",
+"name": "xx",
+"content": "x.sjck.eu.org",
+"ttl": 3600,
+"proxied": false
+}
   ]
 }
