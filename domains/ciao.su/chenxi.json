@@ -1,0 +1,23 @@
+{
+  "owner": {
+    "name": "xixihucxixi",
+    "github": "xixihucxixi",
+    "email": "xixihucxixi@outlook.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "122.235.204.31",
+      "ttl": 3600,
+      "proxied": true
+    },
+    {
+      "type": "CNAME",
+      "name": "*",
+      "content": "hz.tungstencloud.cn",
+      "ttl": 3600,
+      "proxied": true
+    }
+  ]
+}
