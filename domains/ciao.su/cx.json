@@ -1,0 +1,17 @@
+{
+  "description": "个人博客网站",
+  "owner": {
+    "name": "xixihucxixi",
+    "github": "xixihucxixi",
+    "email": "xixihucxixi@outlook.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "content": "hz.sjck.eu.org",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
