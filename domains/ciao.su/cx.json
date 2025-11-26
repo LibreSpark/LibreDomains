@@ -1,4 +1,5 @@
 {
+  "description": "个人博客网站",
   "owner": {
     "name": "xixihucxixi",
     "github": "xixihucxixi",
@@ -8,23 +9,9 @@
     {
       "type": "CNAME",
       "name": "@",
-      "content": "hz.tungstencloud.cn",
+      "content": "hz.sjck.eu.org",
       "ttl": 3600,
-      "proxied": true
-    },
-    {
-      "type": "CNAME",
-      "name": "x",
-      "content": "hz.tungstencloud.cn",
-      "ttl": 3600,
-      "proxied": true
-    },
-{
-"type": "CNAME",
-"name": "xx",
-"content": "x.sjck.eu.org",
-"ttl": 3600,
-"proxied": false
-}
+      "proxied": false
+    }
   ]
 }
