@@ -1,0 +1,19 @@
+{
+  "description": "mcx1d3t.ciao.su - 由配置生成器创建",
+  "subdomain": "mcx1d3t",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "wx",
+    "github": "1298882690",
+    "email": "sr123988328@gmail.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "1.1.1.1",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
