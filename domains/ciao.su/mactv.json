@@ -1,0 +1,26 @@
+{
+  "description": "影视在线观看。",
+  "subdomain": "mactv",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "FEISHOW",
+    "github": "feishow",
+    "email": "wqx_101@qq.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "content": "cname.YY3.0101.pw",
+      "ttl": 3600,
+      "proxied": false
+    },
+    {
+      "type": "CNAME",
+      "name": "www",
+      "content": "cname.YY3.0101.pw",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
