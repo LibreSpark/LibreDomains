@@ -10,7 +10,7 @@
   "records": [
     {
       "type": "CNAME",
-      "name": "ck",
+      "name": "@",
       "content": "623513.vhost477.cloudvhost.top",
       "ttl": 3600,
       "proxied": false
