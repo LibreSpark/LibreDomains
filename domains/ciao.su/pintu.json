@@ -1,1 +1,19 @@
-
+{
+  "description": "pintu.ciallo.de - 由配置生成器创建",
+  "subdomain": "pintu",
+  "domain": "ciallo.de",
+  "owner": {
+    "name": "dw",
+    "github": "dwCodeX",
+    "email": "wangfugang@gmail.com"
+  },
+  "records": [
+    {
+      "type": "cname",
+      "name": "@",
+      "content": "sg-pintu.vercel.app",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
