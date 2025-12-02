@@ -11,7 +11,7 @@
     {
       "type": "cname",
       "name": "@",
-      "content": "sg-pintu.vercel.app",
+      "content": "sgy.vercel.app",
       "ttl": 3600,
       "proxied": false
     }
