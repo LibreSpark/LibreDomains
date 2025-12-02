@@ -1,6 +1,6 @@
 {
   "description": "h5ii.ciao.su - 由配置生成器创建",
-  "subdomain": "ck.h5ii",
+  "subdomain": "www.h5ii",
   "domain": "ciao.su",
   "owner": {
     "name": "lish",
@@ -10,7 +10,7 @@
   "records": [
     {
       "type": "CNAME",
-      "name": "@",
+      "name": "www",
       "content": "623513.vhost477.cloudvhost.top",
       "ttl": 3600,
       "proxied": false
