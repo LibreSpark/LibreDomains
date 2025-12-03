@@ -11,7 +11,7 @@
     {
       "type": "CNAME",
       "name": "www",
-      "content": "sgy.vercel.app",
+      "content": "pintu.vercel.app",
       "ttl": 3600,
       "proxied": false
     }
