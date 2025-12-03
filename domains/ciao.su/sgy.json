@@ -10,7 +10,7 @@
   "records": [
     {
       "type": "cname",
-      "name": "@",
+      "name": "www",
       "content": "sgy.vercel.app",
       "ttl": 3600,
       "proxied": false
