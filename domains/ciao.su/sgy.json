@@ -9,7 +9,7 @@
   },
   "records": [
     {
-      "type": "cname",
+      "type": "CNAME",
       "name": "www",
       "content": "sgy.vercel.app",
       "ttl": 3600,
