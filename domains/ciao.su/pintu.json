@@ -1,5 +1,5 @@
 {
-  "description": " 由ciao.su创建",
+  "description": "pintu.ciao.su - 由配置生成器创建",
   "subdomain": "pintu",
   "domain": "ciao.su",
   "owner": {
@@ -10,7 +10,7 @@
   "records": [
     {
       "type": "CNAME",
-      "name": "www",
+      "name": "",
       "content": "puzzle-tool.vercel.app",
       "ttl": 3600,
       "proxied": false
