@@ -1,0 +1,19 @@
+{
+  "description": "pintu.ciao.su - 由配置生成器创建",
+  "subdomain": "pintu",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "dw",
+    "github": "dwCodeX",
+    "email": "wangfugang@gmail.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "www",
+      "content": "puzzle-tool.vercel.app",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
