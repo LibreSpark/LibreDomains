@@ -1,0 +1,19 @@
+{
+  "description": "binbin.ciao.su - 由配置生成器创建",
+  "subdomain": "binbin",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "彬彬",
+    "github": "binbin1214",
+    "email": "piaozhitian@gmail.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "content": "binbino.cn",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
