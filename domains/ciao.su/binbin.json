@@ -1,0 +1,19 @@
+{
+  "description": "binbin.ciallo.de - 由配置生成器创建",
+  "subdomain": "binbin",
+  "domain": "ciallo.de",
+  "owner": {
+    "name": "彬彬",
+    "github": "binbin1213",
+    "email": "piaozhitian@gmail.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "content": "binbino.cn",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
