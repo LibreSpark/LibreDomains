@@ -1,0 +1,19 @@
+{
+  "description": "no",
+  "subdomain": "lzkid",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "lzkid",
+    "github": "dot111-ally",
+    "email": "3875323908@qq.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "lzkidwebsite",
+      "content": "lzkidwebsite.netlify.app",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
