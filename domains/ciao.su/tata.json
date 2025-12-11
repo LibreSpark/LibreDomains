@@ -1,0 +1,17 @@
+{
+  "description": "个人博客网站",
+  "owner": {
+    "name": "fir",
+    "github": "fir1216",
+    "email": "2437568584@qq.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "169.254.210.95",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
