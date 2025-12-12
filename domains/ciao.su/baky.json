@@ -1,0 +1,17 @@
+{
+  "description": "个人博客网站",
+  "owner": {
+    "name": "zxmqqzz",
+    "github": "zxmqqzz",
+    "email": "zxmqqzz@126.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "您的IP地址",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
