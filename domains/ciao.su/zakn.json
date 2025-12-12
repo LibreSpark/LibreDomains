@@ -1,0 +1,17 @@
+{
+  "description": "个人导航网站",
+  "owner": {
+    "name": "zxmqqzz",
+    "github": "zxmqqzz",
+    "email": "zxmqqzz@126.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "www",
+      "content": "tv919.pages.dev",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
